@@ -142,3 +142,4 @@ In both cases, if you have built release builds instead, use `--release` instead
 
 Congratulations! You’re up and running. Now you can begin coding in WebKit and contribute your fixes and new features to the project. For details on submitting your code to the project, read [Contributing Code](https://webkit.org/contributing-code/).
 
+本代码仅做学习用。
